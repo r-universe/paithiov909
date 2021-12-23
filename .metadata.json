@@ -6,6 +6,10 @@
     "package": "pipian"
   },
   {
+    "package": "RcppMeCab",
+    "oncran": false
+  },
+  {
     "package": "rjavacmecab"
   },
   {
