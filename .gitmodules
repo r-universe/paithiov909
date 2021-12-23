@@ -13,11 +13,6 @@
 	url = https://github.com/paithiov909/pipian
 	shallow = true
 	registered = true
-[submodule "RcppMeCab"]
-	path = RcppMeCab
-	url = https://github.com/paithiov909/RcppMeCab
-	shallow = true
-	registered = true
 [submodule "rjavacmecab"]
 	path = rjavacmecab
 	url = https://github.com/paithiov909/rjavacmecab
