@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/paithiov909/universe
 	shallow = true
 	branch = HEAD
+[submodule "nanoidr"]
+	path = nanoidr
+	url = https://github.com/paithiov909/nanoidr
+	shallow = true
+	registered = true
+[submodule "pipian"]
+	path = pipian
+	url = https://github.com/paithiov909/pipian
+	shallow = true
+	registered = true
+[submodule "rjavacmecab"]
+	path = rjavacmecab
+	url = https://github.com/paithiov909/rjavacmecab
+	shallow = true
+	registered = true
+[submodule "tangela"]
+	path = tangela
+	url = https://github.com/paithiov909/tangela
+	shallow = true
+	registered = true

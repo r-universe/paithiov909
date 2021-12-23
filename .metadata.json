@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "nanoidr"
+  },
+  {
+    "package": "pipian"
+  },
+  {
+    "package": "rjavacmecab"
+  },
+  {
+    "package": "tangela"
+  }
+]
