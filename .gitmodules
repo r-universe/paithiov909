@@ -3,6 +3,11 @@
 	url = https://github.com/paithiov909/universe
 	shallow = true
 	branch = HEAD
+[submodule "audubon"]
+	path = audubon
+	url = https://github.com/paithiov909/audubon
+	shallow = true
+	registered = true
 [submodule "nanoidr"]
 	path = nanoidr
 	url = https://github.com/paithiov909/nanoidr
@@ -11,11 +16,6 @@
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
-	shallow = true
-	registered = true
-[submodule "rjavacmecab"]
-	path = rjavacmecab
-	url = https://github.com/paithiov909/rjavacmecab
 	shallow = true
 	registered = true
 [submodule "tangela"]
