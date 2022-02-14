@@ -1,6 +1,7 @@
 [
   {
-    "package": "audubon"
+    "package": "audubon",
+    "oncran": false
   },
   {
     "package": "nanoidr"
