@@ -10,6 +10,9 @@
     "package": "pipian"
   },
   {
+    "package": "rjavacmecab"
+  },
+  {
     "package": "tangela"
   }
 ]
