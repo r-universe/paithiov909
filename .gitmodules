@@ -8,6 +8,11 @@
 	url = https://github.com/paithiov909/audubon
 	shallow = true
 	registered = true
+[submodule "ldccr"]
+	path = ldccr
+	url = https://github.com/paithiov909/ldccr
+	shallow = true
+	registered = true
 [submodule "nanoidr"]
 	path = nanoidr
 	url = https://github.com/paithiov909/nanoidr
@@ -18,9 +23,9 @@
 	url = https://github.com/paithiov909/pipian
 	shallow = true
 	registered = true
-[submodule "rjavacmecab"]
-	path = rjavacmecab
-	url = https://github.com/paithiov909/rjavacmecab
+[submodule "RcppMeCab"]
+	path = RcppMeCab
+	url = https://github.com/paithiov909/RcppMeCab
 	shallow = true
 	registered = true
 [submodule "tangela"]

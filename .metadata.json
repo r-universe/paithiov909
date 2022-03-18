@@ -4,13 +4,17 @@
     "oncran": true
   },
   {
+    "package": "ldccr"
+  },
+  {
     "package": "nanoidr"
   },
   {
     "package": "pipian"
   },
   {
-    "package": "rjavacmecab"
+    "package": "RcppMeCab",
+    "oncran": false
   },
   {
     "package": "tangela"
