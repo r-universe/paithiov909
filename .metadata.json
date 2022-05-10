@@ -1,5 +1,8 @@
 [
   {
+    "package": "apportita"
+  },
+  {
     "package": "audubon",
     "oncran": true
   },

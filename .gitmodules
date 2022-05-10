@@ -3,6 +3,11 @@
 	url = https://github.com/paithiov909/universe
 	shallow = true
 	branch = HEAD
+[submodule "apportita"]
+	path = apportita
+	url = https://github.com/paithiov909/apportita
+	shallow = true
+	registered = true
 [submodule "audubon"]
 	path = audubon
 	url = https://github.com/paithiov909/audubon
