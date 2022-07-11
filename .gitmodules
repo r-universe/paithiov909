@@ -13,6 +13,11 @@
 	url = https://github.com/paithiov909/audubon
 	shallow = true
 	registered = true
+[submodule "aznyan"]
+	path = aznyan
+	url = https://github.com/paithiov909/aznyan
+	shallow = true
+	registered = true
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
