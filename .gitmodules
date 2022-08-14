@@ -28,6 +28,11 @@
 	url = https://github.com/paithiov909/nanoidr
 	shallow = true
 	registered = true
+[submodule "rjavacmecab"]
+	path = rjavacmecab
+	url = https://github.com/paithiov909/rjavacmecab
+	shallow = true
+	registered = true
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
