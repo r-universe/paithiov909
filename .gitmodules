@@ -18,6 +18,11 @@
 	url = https://github.com/paithiov909/aznyan
 	shallow = true
 	registered = true
+[submodule "gibasa"]
+	path = gibasa
+	url = https://github.com/paithiov909/gibasa
+	shallow = true
+	registered = true
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
