@@ -38,6 +38,11 @@
 	url = https://github.com/paithiov909/pipian
 	shallow = true
 	registered = true
+[submodule "RcppMeCab"]
+	path = RcppMeCab
+	url = https://github.com/paithiov909/RcppMeCab
+	shallow = true
+	registered = true
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
