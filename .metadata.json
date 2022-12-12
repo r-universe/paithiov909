@@ -26,6 +26,9 @@
     "oncran": false
   },
   {
+    "package": "segmntr"
+  },
+  {
     "package": "tangela"
   }
 ]

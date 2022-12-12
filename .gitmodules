@@ -43,6 +43,11 @@
 	url = https://github.com/paithiov909/RcppMeCab
 	shallow = true
 	registered = true
+[submodule "segmntr"]
+	path = segmntr
+	url = https://github.com/paithiov909/segmntr
+	shallow = true
+	registered = true
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
