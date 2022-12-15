@@ -53,3 +53,8 @@
 	url = https://github.com/paithiov909/tangela
 	shallow = true
 	registered = true
+[submodule "vibrrt"]
+	path = vibrrt
+	url = https://github.com/paithiov909/vibrrt
+	shallow = true
+	registered = true

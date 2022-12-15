@@ -30,5 +30,8 @@
   },
   {
     "package": "tangela"
+  },
+  {
+    "package": "vibrrt"
   }
 ]
