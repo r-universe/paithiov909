@@ -2,20 +2,8 @@
   {
     "package": "MatrixGenerics",
     "url": "https://github.com/Bioconductor/MatrixGenerics",
-    "via": ["gibasa"],
-    "from": "gibasa"
-  },
-  {
-    "package": "MatrixGenerics",
-    "url": "https://github.com/Bioconductor/MatrixGenerics",
     "via": ["vibrrt"],
     "from": "vibrrt"
-  },
-  {
-    "package": "sparseMatrixStats",
-    "url": "https://github.com/const-ae/sparseMatrixStats",
-    "via": ["gibasa"],
-    "from": "gibasa"
   },
   {
     "package": "sparseMatrixStats",
