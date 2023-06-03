@@ -48,13 +48,3 @@
 	url = https://github.com/paithiov909/tangela
 	shallow = true
 	registered = true
-[submodule "MatrixGenerics"]
-	path = MatrixGenerics
-	url = https://github.com/Bioconductor/MatrixGenerics
-	shallow = true
-	registered = false
-[submodule "sparseMatrixStats"]
-	path = sparseMatrixStats
-	url = https://github.com/const-ae/sparseMatrixStats
-	shallow = true
-	registered = false
