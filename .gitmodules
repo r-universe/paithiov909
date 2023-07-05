@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/paithiov909/universe
-	shallow = true
 	branch = HEAD
 [submodule "apportita"]
 	path = apportita
 	url = https://github.com/paithiov909/apportita
-	shallow = true
-	registered = true
 [submodule "audubon"]
 	path = audubon
 	url = https://github.com/paithiov909/audubon
-	shallow = true
-	registered = true
 [submodule "aznyan"]
 	path = aznyan
 	url = https://github.com/paithiov909/aznyan
-	shallow = true
-	registered = true
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/paithiov909/gibasa
-	shallow = true
-	registered = true
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
-	shallow = true
-	registered = true
 [submodule "nanoidr"]
 	path = nanoidr
 	url = https://github.com/paithiov909/nanoidr
-	shallow = true
-	registered = true
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
-	shallow = true
-	registered = true
 [submodule "RcppMeCab"]
 	path = RcppMeCab
 	url = https://github.com/paithiov909/RcppMeCab
-	shallow = true
-	registered = true
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
-	shallow = true
-	registered = true
