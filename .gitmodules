@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/paithiov909/universe
 	branch = HEAD
+[submodule "RcppMeCab"]
+	path = RcppMeCab
+	url = https://github.com/paithiov909/RcppMeCab
 [submodule "apportita"]
 	path = apportita
 	url = https://github.com/paithiov909/apportita
@@ -23,9 +26,6 @@
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
-[submodule "RcppMeCab"]
-	path = RcppMeCab
-	url = https://github.com/paithiov909/RcppMeCab
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
