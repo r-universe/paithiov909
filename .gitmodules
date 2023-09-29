@@ -17,6 +17,12 @@
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/paithiov909/gibasa
+[submodule "jisx0402"]
+	path = jisx0402
+	url = https://github.com/paithiov909/jisx0402
+[submodule "jprailway"]
+	path = jprailway
+	url = https://github.com/paithiov909/jprailway
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
