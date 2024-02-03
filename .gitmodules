@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/paithiov909/universe
+	url = https://github.com/paithiov909/paithiov909.r-universe.dev
 	branch = HEAD
 [submodule "RcppMeCab"]
 	path = RcppMeCab
