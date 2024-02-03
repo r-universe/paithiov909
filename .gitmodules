@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/paithiov909/paithiov909.r-universe.dev
 	branch = HEAD
+[submodule "RNGT"]
+	path = RNGT
+	url = https://github.com/paithiov909/RNGT
 [submodule "RcppMeCab"]
 	path = RcppMeCab
 	url = https://github.com/paithiov909/RcppMeCab
@@ -35,6 +38,3 @@
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
-[submodule "vibrrt"]
-	path = vibrrt
-	url = https://github.com/paithiov909/vibrrt
