@@ -26,15 +26,18 @@
 [submodule "jprailway"]
 	path = jprailway
 	url = https://github.com/paithiov909/jprailway
+[submodule "kelpbeds"]
+	path = kelpbeds
+	url = https://github.com/paithiov909/kelpbeds
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
-[submodule "nanoidr"]
-	path = nanoidr
-	url = https://github.com/paithiov909/nanoidr
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
+[submodule "sudachir"]
+	path = sudachir
+	url = https://github.com/paithiov909/sudachir
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
