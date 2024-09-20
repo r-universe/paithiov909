@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/paithiov909/paithiov909.r-universe.dev
 	branch = HEAD
-[submodule "RNGT"]
-	path = RNGT
-	url = https://github.com/paithiov909/RNGT
 [submodule "RcppMeCab"]
 	path = RcppMeCab
 	url = https://github.com/paithiov909/RcppMeCab
@@ -14,12 +11,18 @@
 [submodule "audubon"]
 	path = audubon
 	url = https://github.com/paithiov909/audubon
+[submodule "aznyan"]
+	path = aznyan
+	url = https://github.com/paithiov909/aznyan
 [submodule "baritsu"]
 	path = baritsu
 	url = https://github.com/paithiov909/baritsu
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/paithiov909/gibasa
+[submodule "gsdmm"]
+	path = gsdmm
+	url = https://github.com/paithiov909/gsdmm
 [submodule "jisx0402"]
 	path = jisx0402
 	url = https://github.com/paithiov909/jisx0402
