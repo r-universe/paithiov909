@@ -38,6 +38,9 @@
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
+[submodule "sikakusphere"]
+	path = sikakusphere
+	url = https://github.com/paithiov909/sikakusphere
 [submodule "sudachir"]
 	path = sudachir
 	url = https://github.com/paithiov909/sudachir
