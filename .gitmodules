@@ -17,6 +17,9 @@
 [submodule "baritsu"]
 	path = baritsu
 	url = https://github.com/paithiov909/baritsu
+[submodule "convlog"]
+	path = convlog
+	url = https://github.com/paithiov909/convlog
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/paithiov909/gibasa
@@ -41,9 +44,6 @@
 [submodule "shikakusphere"]
 	path = shikakusphere
 	url = https://github.com/paithiov909/shikakusphere
-[submodule "sudachir"]
-	path = sudachir
-	url = https://github.com/paithiov909/sudachir
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
