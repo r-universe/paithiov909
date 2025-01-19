@@ -47,3 +47,6 @@
 [submodule "tangela"]
 	path = tangela
 	url = https://github.com/paithiov909/tangela
+[submodule "vibrrt"]
+	path = vibrrt
+	url = https://github.com/paithiov909/vibrrt
