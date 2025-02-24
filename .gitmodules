@@ -44,9 +44,9 @@
 [submodule "shikakusphere"]
 	path = shikakusphere
 	url = https://github.com/paithiov909/shikakusphere
-[submodule "tangela"]
-	path = tangela
-	url = https://github.com/paithiov909/tangela
+[submodule "sudachir2"]
+	path = sudachir2
+	url = https://github.com/paithiov909/sudachir2
 [submodule "vibrrt"]
 	path = vibrrt
 	url = https://github.com/paithiov909/vibrrt
