@@ -12,6 +12,9 @@
 [submodule "audubon"]
 	path = audubon
 	url = https://github.com/paithiov909/audubon
+[submodule "aznyan"]
+	path = aznyan
+	url = https://github.com/paithiov909/aznyan
 [submodule "baritsu"]
 	path = baritsu
 	url = https://github.com/paithiov909/baritsu
