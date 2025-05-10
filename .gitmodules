@@ -42,6 +42,9 @@
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
+[submodule "rasengan"]
+	path = rasengan
+	url = https://github.com/paithiov909/rasengan
 [submodule "shikakusphere"]
 	path = shikakusphere
 	url = https://github.com/paithiov909/shikakusphere
