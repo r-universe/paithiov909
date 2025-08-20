@@ -39,6 +39,9 @@
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
+[submodule "nativeshadr"]
+	path = nativeshadr
+	url = https://github.com/paithiov909/nativeshadr
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
