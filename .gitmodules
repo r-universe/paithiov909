@@ -21,6 +21,9 @@
 [submodule "convlog"]
 	path = convlog
 	url = https://github.com/paithiov909/convlog
+[submodule "dee"]
+	path = dee
+	url = https://github.com/trevorld/dee
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/paithiov909/gibasa
