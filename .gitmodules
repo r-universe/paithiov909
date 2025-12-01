@@ -19,9 +19,6 @@
 [submodule "aznyan"]
 	path = aznyan
 	url = https://github.com/paithiov909/aznyan
-[submodule "baritsu"]
-	path = baritsu
-	url = https://github.com/paithiov909/baritsu
 [submodule "convlog"]
 	path = convlog
 	url = https://github.com/paithiov909/convlog
@@ -68,6 +65,9 @@
 [submodule "pipian"]
 	path = pipian
 	url = https://github.com/paithiov909/pipian
+[submodule "pipopaplot"]
+	path = pipopaplot
+	url = https://github.com/paithiov909/pipopaplot
 [submodule "rasengan"]
 	path = rasengan
 	url = https://github.com/paithiov909/rasengan
