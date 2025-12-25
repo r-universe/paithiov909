@@ -10,9 +10,6 @@
 	path = affiner
 	url = https://github.com/trevorld/affiner
 	registered = false
-[submodule "apportita"]
-	path = apportita
-	url = https://github.com/paithiov909/apportita
 [submodule "audubon"]
 	path = audubon
 	url = https://github.com/paithiov909/audubon
@@ -55,6 +52,9 @@
 	path = minisvg
 	url = https://github.com/coolbutuseless/minisvg
 	registered = false
+[submodule "mixboxr"]
+	path = mixboxr
+	url = https://github.com/paithiov909/mixboxr
 [submodule "nara"]
 	path = nara
 	url = https://github.com/coolbutuseless/nara
@@ -68,6 +68,9 @@
 [submodule "pipopaplot"]
 	path = pipopaplot
 	url = https://github.com/paithiov909/pipopaplot
+[submodule "pnglitchr"]
+	path = pnglitchr
+	url = https://github.com/paithiov909/pnglitchr
 [submodule "rasengan"]
 	path = rasengan
 	url = https://github.com/paithiov909/rasengan
