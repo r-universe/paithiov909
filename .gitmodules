@@ -6,10 +6,6 @@
 	path = RMeCab
 	url = https://github.com/paithiov909/rmecab-doc
 	branch = dev
-[submodule "affiner"]
-	path = affiner
-	url = https://github.com/trevorld/affiner
-	registered = false
 [submodule "audubon"]
 	path = audubon
 	url = https://github.com/paithiov909/audubon
@@ -19,14 +15,6 @@
 [submodule "convlog"]
 	path = convlog
 	url = https://github.com/paithiov909/convlog
-[submodule "cssparser"]
-	path = cssparser
-	url = https://github.com/coolbutuseless/cssparser
-	registered = false
-[submodule "gggrid"]
-	path = gggrid
-	url = https://github.com/pmur002/gggrid
-	registered = false
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/paithiov909/gibasa
@@ -45,10 +33,6 @@
 [submodule "ldccr"]
 	path = ldccr
 	url = https://github.com/paithiov909/ldccr
-[submodule "minisvg"]
-	path = minisvg
-	url = https://github.com/coolbutuseless/minisvg
-	registered = false
 [submodule "mixboxr"]
 	path = mixboxr
 	url = https://github.com/paithiov909/mixboxr
@@ -80,10 +64,6 @@
 [submodule "sudachir2"]
 	path = sudachir2
 	url = https://github.com/paithiov909/sudachir2
-[submodule "svgparser"]
-	path = svgparser
-	url = https://github.com/coolbutuseless/svgparser
-	registered = false
 [submodule "vibrrt"]
 	path = vibrrt
 	url = https://github.com/paithiov909/vibrrt

@@ -1,38 +1,8 @@
 [
   {
-    "package": "affiner",
-    "url": "https://github.com/trevorld/affiner",
-    "via": ["dee"],
-    "from": "dee"
-  },
-  {
-    "package": "cssparser",
-    "url": "https://github.com/coolbutuseless/cssparser",
-    "via": ["dee", "svgparser"],
-    "from": "dee"
-  },
-  {
-    "package": "gggrid",
-    "url": "https://github.com/pmur002/gggrid",
-    "via": ["dee", "svgparser"],
-    "from": "dee"
-  },
-  {
-    "package": "minisvg",
-    "url": "https://github.com/coolbutuseless/minisvg",
-    "via": ["dee", "svgparser"],
-    "from": "dee"
-  },
-  {
     "package": "nara",
     "url": "https://github.com/coolbutuseless/nara",
     "via": ["nativeshadr"],
     "from": "nativeshadr"
-  },
-  {
-    "package": "svgparser",
-    "url": "https://github.com/coolbutuseless/svgparser",
-    "via": ["dee"],
-    "from": "dee"
   }
 ]
