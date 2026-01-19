@@ -23,9 +23,6 @@
 	path = cssparser
 	url = https://github.com/coolbutuseless/cssparser
 	registered = false
-[submodule "dee"]
-	path = dee
-	url = https://github.com/trevorld/dee
 [submodule "gggrid"]
 	path = gggrid
 	url = https://github.com/pmur002/gggrid
