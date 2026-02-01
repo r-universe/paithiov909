@@ -36,10 +36,6 @@
 [submodule "mixboxr"]
 	path = mixboxr
 	url = https://github.com/paithiov909/mixboxr
-[submodule "nara"]
-	path = nara
-	url = https://github.com/coolbutuseless/nara
-	registered = false
 [submodule "nativeshadr"]
 	path = nativeshadr
 	url = https://github.com/paithiov909/nativeshadr
