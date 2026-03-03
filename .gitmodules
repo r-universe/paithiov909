@@ -51,6 +51,9 @@
 [submodule "rasengan"]
 	path = rasengan
 	url = https://github.com/paithiov909/rasengan
+[submodule "rravif"]
+	path = rravif
+	url = https://github.com/paithiov909/rravif
 [submodule "shikakusphere"]
 	path = shikakusphere
 	url = https://github.com/paithiov909/shikakusphere
